@@ -1,0 +1,3 @@
+# Hands on Activity Git and Github
+
+this is a hands on activity
